@@ -1,3 +1,9 @@
+![](https://github.com/astronomicalRedwoods27/react-app/workflows/CI/badge.svg?=branch=main&event=push)
+![](https://github.com/astronomicalRedwoods27/react-app/workflows/CI/badge.svg?=branch=develop&event=push)
+![](https://github.com/astronomicalRedwoods27/react-app/workflows/CI/badge.svg?=branch=develop&event=pull_request)
+![](https://github.com/astronomicalRedwoods27/react-app/workflows/CI/badge.svg?=branch=workflow&event=push)
+![](https://github.com/astronomicalRedwoods27/react-app/workflows/CI/badge.svg?=branch=workflow&event=pull_request)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
